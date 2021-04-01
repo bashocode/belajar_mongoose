@@ -1,0 +1,26 @@
+{
+  "name": "belajar_mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "NODE_ENV=development nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashocode/belajar_mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashocode/belajar_mongoose/issues"
+  },
+  "homepage": "https://github.com/bashocode/belajar_mongoose#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3"
+  }
+}
